@@ -1,2 +1,2 @@
 # kmcos
-This is the main repository for kmcos
+This repository is to separate the kmcos roadmap from its code repository.
